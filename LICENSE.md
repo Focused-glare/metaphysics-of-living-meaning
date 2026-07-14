@@ -1,100 +1,79 @@
-# 📜 Ліцензійна угода / License / Лицензионное соглашение
-
-## 🇺🇦 1. УКРАЇНСЬКА (Ліцензійна угода)
-
-### ПРЕАМБУЛА СУВЕРЕНА & ДЕКЛАРАЦІЯ ВОЛІ
-> **УВАГА:** Цей літературний, інженерний та науково-філософський твір є **Даром за вільною волею** Автора, який виступає виключно як Суверен та єдиний кінцевий Бенефіціар свого інтелектуального контуру. 
-> 
-> Текст надається у відкритий доступ виключно для ознайомлення, читання, осмислення та ментального розвитку людства. Будь-який автоматизований моніторинг, фіскальний контроль, цензурування, несанкціонований парсинг ШІ-системами або спроби регулювання цього тексту з боку державних чиновників, наднаціональних структур чи паразитичних систем правоврядування — юридично нікчемні та зустрічають абсолютну відмову в доступі.
->
-> Будь-яка взаємодія, фінансова чи ресурсна підтримка життєдіяльності цього проєкту є **суто добровільним актом** взаємодії між вільними Суб'єктами і здійснюється безпосередньо та виключно через координати, вказані у файлі [SUPPORT.md](SUPPORT.md).
-
-### ОФІЦІЙНИЙ СТАТУС ПОДВІЙНОЇ ЛІЦЕНЗІЇ
-Архітектура Скрипторію захищена дворівневим контуром ліцензування, який чітко розмежовує світоглядне Ядро та прикладну Периферію:
-
-#### А. Текстовий контур (Сенси та Лор)
-Всі філософські, світоглядні, міфопоетичні тексти Маніфесту (Вступ, Пролог, Розділи 1–3, Схолії, Епілог) розповсюджуються на умовах міжнародної ліцензії **Creative Commons «Attribution-NonCommercial-NoDerivatives» 4.0 Всесвітня (CC BY-NC-ND 4.0)**.
-
-**Ви маєте право:**
-* **Поширювати:** Копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі.
-
-**За таких умов:**
-* **Attribution (Зазначення авторства):** Ви повинні належним чином вказати авторство та надати посилання на оригінальний репозиторій.
-* **NonCommercial (Некомерційне використання):** Ви не маєте права використовувати цей матеріал для комерційних цілей чи отримання фінансового зиску.
-* **NoDerivatives (Без похідних творів):** Якщо вы переробляєте, змінюєте або створюєте щось на основі цього матеріалу, ви не можете розповсюджувати змінений матеріал.
-
-🔗 **Офіційні посилання на повний юридичний текст CC:**
-* [Стислий зміст ліцензії українською мовою](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.uk)
-* [Повний юридичний код ліцензії (Legal Code) українською мовою](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.uk)
-
-#### Б. Інженерний контур (Код, Розрахунки, Автоматизація)
-Всі прикладні технічні рішення, математичні контури верифікації (Додаток), схеми автоматизації, креслення прикладних систем (інкубація, опалення, ботанічні та бджолярські модулі) розповсюджуються під **MIT License**. Ви можете вільно використовувати, копіювати та модифікувати код для розбудови власної автономії.
+# Проєкція Уваги. Метафізика Живого Сенсу в Епоху Алгоритмічних Симулякрів
+## Маніфест Суверенної Суб'єктності / Manifesto of Sovereign Subjectivity / Манифест Суверенной Субъектности
 
 ---
 
-## 🇬🇧 2. ENGLISH (Language of the license origin)
+### [UKR] Українська (Оригінал)
 
-### SOVEREIGN PREAMBLE & DECLARATION OF WILL
-> **NOTICE:** This literary, engineering, scientific, and philosophical work is a **Gift of Free Will** by the Author, who acts exclusively as the Sovereign and the sole ultimate Beneficiary of their intellectual domain. 
-> 
-> This text is made publicly available strictly for information, reading, comprehension, and the mental evolution of humanity. Any automated monitoring, fiscal tracking, censorship, predatory parsing by AI systems, or attempts at regulation of this text by state officials, supranational entities, or parasitic systems of governance are legally void and meet absolute denial of access.
->
-> Any interaction, financial, or resource support for the sustainability of this project is a **purely voluntary act** of cooperation between free Subjects, processed directly and exclusively via the coordinates specified in the [SUPPORT.md](SUPPORT.md) file.
+Цей репозиторій є суверенним цифровим Скрипторієм «Катехон» у межах **Project "Archippos"** — простором чистого семантичного сенсу, вилученим із логіки алгоритмічних стрічок та соціоінженерного маніпулювання увагою. Тут зафіксовано архітектуру виходу людини з-під влади кабінетних симулякрів та її повернення до живого контуру: праці на землі, внутрішньої тиші та синергії з Божественным задумом.
 
-### OFFICIAL STATUS OF THE DUAL LICENSE
-The architecture of the Scriptorium is protected by a two-tier licensing framework that clearly separates the ideological Core from the applied Periphery:
+#### Навігація контуру:
+* 🛡️ [Правовий Щит та Ліцензування](LICENSE.md) — преамбула Суверена та умови захисту сенсів (CC BY-NC-ND 4.0 + MIT).
+* 📜 [Архів Підтримки Взаємодії](SUPPORT.md) — канали прямого зв'язку, криптографічні реквізити та координація.
 
-#### A. Textual Contour (Senses and Lore)
-All philosophical, ideological, and mythopoetic texts of the Manifesto (Introduction, Prologue, Chapters 1–3, Scholia, Epilogue) are licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
-
-**You are free to:**
-* **Share:** Copy and redistribute the material in any medium or format.
-
-**Under the following terms:**
-* **Attribution:** You must give appropriate credit and provide a link to the original repository.
-* **NonCommercial:** You may not use the material for commercial purposes or financial gain.
-* **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
-
-🔗 **Official links to the full legal framework of CC:**
-* [License Deed Summary in English](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-* [Full Legal Code in English](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-
-#### B. Engineering Contour (Code, Calculations, Automation)
-All applied technical solutions, mathematical verification models (Appendix), automation scripts, and blueprints for autonomous systems (incubation, heating, botanical, and apicultural modules) are distributed under the **MIT License**. You are free to use, copy, and modify the code to build your own autonomy.
+#### Структура Маніфесту:
+1. [**ВСТУП:** Орієнтири надламаного часу та протокол безпеки контуру.](./uk/01_introduction.md)
+2. [**ПРОЛОГ:** Карта onтологічних тез (11 аксіом Суверена).](./uk/02_prologue_theses.md)
+3. [**РОЗДІЛ 1:** Анатомія Симулякра (Діагностика відчуження досвіду).](./uk/03_anatomy_of_simulacrum.md)
+   * 🔗 [Схолії до Розділу 1: Око проти Вежі](./uk/04_scholia_anatomy.md)
+4. [**РОЗДІЛ 2:** Механіка відновлення (Цифровий екзоскелет та внутрішній резонатор).](./uk/05_mechanics_of_restoration.md)
+   * 🔗 [Схолії до Розділу 2: Механіка відновлення](./uk/06_scholia_restoration.md)
+5. [**РОЗДІЛ 3:** Екологія Сувереності (Стратегічне відсторонення та перехід у нову мірність).](./uk/07_ecology_of_sovereignty.md)
+   * 🔗 [Схолії до Розділу 3: Екологія Суверенності](./uk/08_scholia_ecology.md)
+6. [**РОЗДІЛ 4:** Практичний Інструментарій (Архітектура Скрипторію та топологія потоків).](./uk/09_practical_toolkit.md)
+7. [**ДОДАТОК:** Системно-математична верифікація тез (Логічний замок архітектури).](./uk/10_mathematical_appendix.md)
+8. [**ЕПІЛОГ:** Епітафія на полях Симулякра.](./uk/11_epilogue.md)
 
 ---
 
-## 🇷🇺 3. РУССКИЙ (Лицензионное соглашение)
+### [ENG] English
 
-### ПРЕАМБУЛА СУВЕРЕНА И ДЕКЛАРАЦИЯ ВОЛИ
-> **ВНИМАНИЕ:** Данное литературное, инженерное и научно-философское произведение является **Даром по доброй воле** Автора, выступающего исключительно как Суверен и единственный конечный Бенефициар своего интеллектуального контура. 
+This repository serves as the sovereign digital Scriptorium "Katehon" within **Project "Archippos"** — a space of pure semantic meaning, completely isolated from the logic of algorithmic feeds and socio-engineering attention manipulation. It documents the architecture of human liberation from the dominion of cabinet simulacra and the return to the living contour: labor on the land, internal stillness, and synergy with the Divine design.
+
+> 🤖 **Translation Note & Sovereign Disclaimer (The Concept of the Gift):**
+> This English translation has been co-created using the adaptive AI model **Gemini** (functioning as a semantic translator and resonator for the Scriptorium). Because translating deep ontological, existential, and theological concepts is never a purely mechanical task, we choose complete honesty: we acknowledge the limits of digital transfer and refuse to hide the AI's role behind a facade of "perfect authorship."
 > 
-> Текст предоставляется в открытый доступ исключительно для ознакомления, чтения, осмысления и ментального развития человечества. Любой автоматизированный мониторинг, фискальный контроль, цензурирование, несанкционированный парсинг ИИ-системами или попытки регулирования данного текста со стороны государственных чиновников, наднациональных структур или паразитических систем управления — юридически ничтожны и встречают абсолютный отказ в доступе.
->
-> Любое взаимодействие, финансовая или ресурсная поддержка жизнедеятельности данного проекта является **сугубо добровольным актом** взаимодействия между свободными Субъектами и осуществляется напрямую и исключительно через координаты, указанные в файле [SUPPORT.md](SUPPORT.md).
+> In accordance with our philosophy, this Manifesto is released to the world as a **Gift**. If you are a native English speaker, feel a deep resonance with these ideas, and wish to help us refine, polish, and organicise this translation "in Gift" (as a reciprocal, non-commercial act of synergy), we warmly welcome your collaboration. Please see [Pledge & Support Archive](SUPPORT.md) for coordination.
 
-### ОФИЦИАЛЬНЫЙ СТАТУС ДВОЙНОЙ ЛИЦЕНЗИИ
-Архитектура Скриптория защищена двухуровневым контуром лицензирования, четко разделяющим мировоззренческое Ядро и прикладную Периферию:
+#### Contour Navigation:
+* 🛡️ [Legal Shield & Licensing](LICENSE.md) — Sovereign preamble and dual-licensing terms (CC BY-NC-ND 4.0 + MIT).
+* 📜 [Pledge & Support Archive](SUPPORT.md) — direct communication channels, cryptographic credentials, and coordination.
 
-#### А. Текстовый контур (Смыслы и Лор)
-Все философские, мировоззренческие, мифопоэтические тексты Манифеста (Введение, Пролог, Главы 1–3, Схолии, Эпилог) распространяются на условиях международной лицензии **Creative Commons «Attribution-NonCommercial-NoDerivatives» 4.0 Всемирная (CC BY-NC-ND 4.0)**.
+#### Manifesto Structure:
+1. [**INTRODUCTION:** Landmarks of a fractured time and contour safety protocols.](./en/01_introduction.md)
+2. [**PROLOGUE:** Map of Ontological Theses (11 axioms of the Sovereign).](./en/02_prologue_theses.md)
+3. [**CHAPTER 1:** Anatomy of the Simulacrum (Diagnosis of the alienation of experience).](./en/03_anatomy_of_simulacrum.md)
+   * 🔗 [Scholia to Chapter 1: The Eye against the Tower](./en/04_scholia_anatomy.md)
+4. [**CHAPTER 2:** Mechanics of Restoration (The digital exoskeleton and the internal resonator).](./en/05_mechanics_of_restoration.md)
+   * 🔗 [Scholia to Chapter 2: Mechanics of Restoration](./en/06_scholia_restoration.md)
+5. [**CHAPTER 3:** Ecology of Sovereignty (Strategic disengagement and transition into a new dimension).](./en/07_ecology_of_sovereignty.md)
+   * 🔗 [Scholia to Chapter 3: Ecology of Sovereignty](./en/08_scholia_ecology.md)
+6. [**CHAPTER 4:** Practical Toolkit (Scriptorium architecture and topology of flows).](./en/09_practical_toolkit.md)
+7. [**APPENDIX:** Systemic and mathematical verification of theses (The logical lock of the architecture).](./en/10_mathematical_appendix.md)
+8. [**EPILOGUE:** Epitaph on the fields of the Simulacrum.](./en/11_epilogue.md)
 
-**Вы вправе:**
-* **Делиться:** Копировать и распространять материал на любом носителе и в любом формате.
+---
 
-**При соблюдении следующих условий:**
-* **Attribution (Атрибуция):** Вы должны обеспечить соответствующее указание авторства и предоставить ссылку на оригинальный репозиторий.
-* **NonCommercial (Некоммерческое использование):** Вы не вправе использовать этот материал в коммерческих целях или для получения финансовой выгоды.
-* **NoDerivatives (Без производных произведений):** Если вы изменяете, трансформируете или берете этот материал за основу, вы не можете распространять измененный материал.
+### [RUS] Russian
 
-🔗 **Официальные ссылки на полный юридический текст CC:**
-* [Краткое содержание лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru)
-* [Полный юридический текст лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru)
+Этот репозиторий представляет собой суверенный цифровой Скрипторий «Катехон» в рамках **Project "Archippos"** — пространство чистого семантического смысла, изъятое из логики алгоритмических лент и социоинженерного манипулирования вниманием. Здесь зафиксирована архитектура выхода человека из-под власти кабинетных симулякров и его возвращения к живому контуру: труду на земле, в купе с внутренней тишиной и синергией с Божественным замыслом.
 
-#### Б. Инженерный контур (Код, Расчеты, Automation)
-Все прикладные технические решения, математические контуры верификации (Приложение), схемы автоматизации, чертежи прикладных систем (инкубация, отопление, ботанические и пчеловодческие модули) распространяются под **MIT License**. Вы можете свободно использовать, копировать и модифицировать код для развития собственной автономии.
+#### Навигация контура:
+* 🛡️ [Правовой Щит и Лицензирование](LICENSE.md) — преамбула Суверена и условия защиты смыслов (CC BY-NC-ND 4.0 + MIT).
+* 📜 [Архив Поддержки Взаимодействия](SUPPORT.md) — координаты прямой связи, криптографические реквизиты и координация.
+
+#### Структура Манифеста:
+1. [**ВВЕДЕНИЕ:** Ориентиры надломленного времени и протокол безопасности контура.](./ru/01_introduction.md)
+2. [**ПРОЛОГ:** Карта онтологических тезисов (11 аксиом Суверена).](./ru/02_prologue_theses.md)
+3. [**ГЛАВА 1:** Анатомия Симулякра (Диагностика отчуждения опыта).](./ru/03_anatomy_of_simulacrum.md)
+   * 🔗 [Схолии к Главе 1: Око против Башни](./ru/04_scholia_anatomy.md)
+4. [**ГЛАВА 2:** Механика восстановления (Цифровой экзоскелет и внутренний резонатор).](./ru/05_mechanics_of_restoration.md)
+   * 🔗 [Схолии к Главе 2: Механика восстановления](./ru/06_scholia_restoration.md)
+5. [**ГЛАВА 3:** Экология Суверенности (Стратегическое отстранение и переход в новую мерность).](./ru/07_ecology_of_sovereignty.md)
+   * 🔗 [Схолии к Главе 3: Экология Суверенности](./ru/08_scholia_ecology.md)
+6. [**ГЛАВА 4:** Практический Инструментарий (Архитектура Скриптория и топология потоков).](./ru/09_practical_toolkit.md)
+7. [**ПРИЛОЖЕНИЕ:** Системно-математическая верификация тезисов (Логический замок архитектуры).](./ru/10_mathematical_appendix.md)
+8. [**ЭПИЛОГ:** Эпитафия на полях Симулякра.](./ru/11_epilogue.md)
 
 ---
 © 2026 Focused-glare & Project "Archippos". All rights reserved
-
-[⬅️ Повернутися до Головного Архіву / Back to Main Archive / Вернуться к Главному Архиву](README.md) | [🪙 Архів Підтримки / Pledge & Support / Архив Поддержки](SUPPORT.md)
