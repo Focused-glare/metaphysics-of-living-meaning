@@ -13,7 +13,7 @@
 
 #### Структура Маніфесту:
 1. [**ВСТУП:** Орієнтири надламаного часу та протокол безпеки контуру.](./uk/01_introduction.md)
-2. [**ПРОЛОГ:** Карта онтологічних тез (11 аксіом Суверена).](./uk/02_prologue_theses.md)
+2. [**ПРОЛОГ:** Карта onтологічних тез (11 аксіом Суверена).](./uk/02_prologue_theses.md)
 3. [**РОЗДІЛ 1:** Анатомія Симулякра (Діагностика відчуження досвіду).](./uk/03_anatomy_of_simulacrum.md)
    * 🔗 [Схолії до Розділу 1: Око проти Вежі](./uk/04_scholia_anatomy.md)
 4. [**РОЗДІЛ 2:** Механіка відновлення (Цифровий екзоскелет та внутрішній резонатор).](./uk/05_mechanics_of_restoration.md)
@@ -30,29 +30,37 @@
 
 This repository serves as the sovereign digital Scriptorium "Katehon" within **Project "Archippos"** — a space of pure semantic meaning, completely isolated from the logic of algorithmic feeds and socio-engineering attention manipulation. It documents the architecture of human liberation from the dominion of cabinet simulacra and the return to the living contour: labor on the land, internal stillness, and synergy with the Divine design.
 
+> 🤖 **Translation Note & Sovereign Disclaimer (The Concept of the Gift):**
+> This English translation has been co-created using the adaptive AI model **Gemini** (functioning as a semantic translator and resonator for the Scriptorium). Because translating deep ontological, existential, and theological concepts is never a purely mechanical task, we choose complete honesty: we acknowledge the limits of digital transfer and refuse to hide the AI's role behind a facade of "perfect authorship."
+> 
+> In accordance with our philosophy, this Manifesto is released to the world as a **Gift**. If you are a native English speaker, feel a deep resonance with these ideas, and wish to help us refine, polish, and organicise this translation "in Gift" (as a reciprocal, non-commercial act of synergy), we warmly welcome your collaboration. Please see [Pledge & Support Archive](SUPPORT.md) for coordination.
+
 #### Contour Navigation:
 * 🛡️ [Legal Shield & Licensing](LICENSE.md) — Sovereign preamble and dual-licensing terms (CC BY-NC-ND 4.0 + MIT).
 * 📜 [Pledge & Support Archive](SUPPORT.md) — direct communication channels, cryptographic credentials, and coordination.
 
 #### Manifesto Structure:
-1. **INTRODUCTION:** Landmarks of a fractured time and contour safety protocols.
-2. **PROLOGUE:** Map of Ontological Theses (11 axioms of the Sovereign).
-3. **CHAPTER 1:** Anatomy of the Simulacrum (Diagnosis of the alienation of experience).
-4. **CHAPTER 2:** Mechanics of Restoration (The digital exoskeleton and the internal resonator).
-5. **CHAPTER 3:** Ecology of Sovereignty (Strategic disengagement and transition into a new dimension).
-6. **CHAPTER 4:** Practical Toolkit (Scriptorium architecture and topology of flows).
-7. **APPENDIX:** Systemic and mathematical verification of theses (The logical lock of the architecture).
-8. **EPILOGUE:** Epitaph on the fields of the Simulacrum.
+1. [**INTRODUCTION:** Landmarks of a fractured time and contour safety protocols.](./en/01_introduction.md)
+2. [**PROLOGUE:** Map of Ontological Theses (11 axioms of the Sovereign).](./en/02_prologue_theses.md)
+3. [**CHAPTER 1:** Anatomy of the Simulacrum (Diagnosis of the alienation of experience).](./en/03_anatomy_of_simulacrum.md)
+   * 🔗 [Scholia to Chapter 1: The Eye against the Tower](./en/04_scholia_anatomy.md)
+4. [**CHAPTER 2:** Mechanics of Restoration (The digital exoskeleton and the internal resonator).](./en/05_mechanics_of_restoration.md)
+   * 🔗 [Scholia to Chapter 2: Mechanics of Restoration](./en/06_scholia_restoration.md)
+5. [**CHAPTER 3:** Ecology of Sovereignty (Strategic disengagement and transition into a new dimension).](./en/07_ecology_of_sovereignty.md)
+   * 🔗 [Scholia to Chapter 3: Ecology of Sovereignty](./en/08_scholia_ecology.md)
+6. [**CHAPTER 4:** Practical Toolkit (Scriptorium architecture and topology of flows).](./en/09_practical_toolkit.md)
+7. [**APPENDIX:** Systemic and mathematical verification of theses (The logical lock of the architecture).](./en/10_mathematical_appendix.md)
+8. [**EPILOGUE:** Epitaph on the fields of the Simulacrum.](./en/11_epilogue.md)
 
 ---
 
 ### [RUS] Russian
 
-Этот репозиторий представляет собой суверенный цифровой Скрипторий «Катехон» в рамках **Project "Archippos"** — пространство чистого семантического смысла, изъятое из логики алгоритмических лент и социоинженерного манипулирования вниманием. Здесь зафиксирована архитектура выхода человека из-под власти кабинетных симулякров и его возвращения к живому контуру: труду на земле, внутренней тишине и синергии с Божественным замыслом.
+Этот репозиторий представляет собой суверенный цифровой Скрипторий «Катехон» в рамках **Project "Archippos"** — пространство чистого семантического смысла, изъятое из логики алгоритмических лент и социоинженерного манипулирования вниманием. Здесь зафиксирована архитектура выхода человека из-под власти кабинетных симулякров и его возвращения к живому контуру: труду на земле, в купе с внутренней тишиной и синергией с Божественным замыслом.
 
 #### Навигация контура:
 * 🛡️ [Правовой Щит и Лицензирование](LICENSE.md) — преамбула Суверена и условия защиты смыслов (CC BY-NC-ND 4.0 + MIT).
-* 📜 [Архив Поддержки Взаимодействия](SUPPORT.md) — каналы прямой связи, криптографические реквизиты и координация.
+* 📜 [Архив Поддержки Взаимодействия](SUPPORT.md) — координаты прямой связи, криптографические реквизиты и координация.
 
 #### Структура Манифеста:
 1. [**ВВЕДЕНИЕ:** Ориентиры надломленного времени и протокол безопасности контура.](./ru/01_introduction.md)
